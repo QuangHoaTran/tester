@@ -14,7 +14,7 @@ public class Tester {
 	}
 
 	public static void printName(String name) {
-		System.out.println("Tester name: " + name);
+		System.out.println("Hello tester name: " + name);
 	}
 
 	private static final String _CONFIGURATION_NAME = "tester";
